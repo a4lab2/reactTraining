@@ -1,6 +1,7 @@
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
 import HomeIcon from '@mui/icons-material/Home';
 import CodeIcon from '@mui/icons-material/Code';
+import SecurityIcon from '@mui/icons-material/Security';
 import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import LiveTvIcon from '@mui/icons-material/LiveTv';
@@ -16,7 +17,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
     { name: 'New', icon: <HomeIcon />, },
-    { name: 'JS Mastery', icon: <CodeIcon />, },
+    { name: 'Websecurity', icon: <SecurityIcon />, },
     { name: 'Coding', icon: <CodeIcon />, },
     { name: 'ReactJS', icon: <CodeIcon />, },
     { name: 'NextJS', icon: <CodeIcon />, },
